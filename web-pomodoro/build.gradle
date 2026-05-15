@@ -1,0 +1,16 @@
+plugins {
+    id "com.android.application"
+}
+
+android {
+    namespace "com.longfanfanya.pomodoro.webapp"
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.longfanfanya.pomodoro.webapp"
+        minSdk 23
+        targetSdk 35
+        versionCode 1
+        versionName "1.0"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.longfanfanya.pomodoro.webapp.web-pomodoro-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\86187\\Documents\\Codex\\2026-05-15\\apk-app-web-https-longfanfanya-github\\web-pomodoro\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "56",
+                        "endOffsets": "68"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\86187\\Documents\\Codex\\2026-05-15\\apk-app-web-https-longfanfanya-github\\web-pomodoro\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "292"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "157",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "433"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\86187\\Documents\\Codex\\2026-05-15\\apk-app-web-https-longfanfanya-github\\web-pomodoro\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "44",
+                        "endOffsets": "56"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "112",
+                        "endColumns": "44",
+                        "endOffsets": "152"
+                    }
+                }
+            ]
+        }
+    ]
+}
